@@ -7,6 +7,10 @@ Medium app for Andriod | Medium app for iOS | Medium app for Windows
 i started loving the markdown way of writing | it is very cool and easy to learn and need not much effort | it makes the read me file more atractive and easy to read
 [Google](www.google.com) | [Google](www.google.com) | [Google](www.google.com)
 ![](https://crackberry.com/sites/crackberry.com/files/topic_images/2013/ANDROID.png) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcJW4U2pPzvxyk_cOnzRxvJ6PxotPkzwyDyDMvNxg5arOrLb0l "Apple Logo") | ![](https://images.news18.com/ibnlive/uploads/2019/01/windows-7.jpg)
+![](Target.jpeg) | ![](Target.jpeg) | ![](Target.jpeg)
+
+# Adding video
+[![](https://img.youtube.com/vi/fkFRnd5x3lY/maxresdefault.jpg)](https://www.youtube.com/watch?v=fkFRnd5x3lY)
 
 
 For **bolding** the text --> Option 1
