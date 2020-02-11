@@ -1,4 +1,13 @@
 This file is all nonsense and this is creating for learing the markdown
+# Table Creation
+
+Andriod | iOS | Windows
+:--- | :---: | ---:
+Medium app for Andriod | Medium app for iOS | Medium app for Windows
+i started loving the markdown way of writing | it is very cool and easy to learn and need not much effort | it makes the read me file more atractive and easy to read
+[Google](www.google.com) | [Google](www.google.com) | [Google](www.google.com)
+![](https://crackberry.com/sites/crackberry.com/files/topic_images/2013/ANDROID.png) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcJW4U2pPzvxyk_cOnzRxvJ6PxotPkzwyDyDMvNxg5arOrLb0l "Apple Logo") | ![](https://images.news18.com/ibnlive/uploads/2019/01/windows-7.jpg)
+
 
 For **bolding** the text --> Option 1
 For __bolding__ the text --> Option 2
@@ -36,3 +45,5 @@ To combine __*both bold and Italic*__
 
 + [ ] Task 1
 + [ ] Task 2
+
+
